@@ -1,5 +1,12 @@
 # ai-compliance-system
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ai-compliance-system/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ai-compliance-system/actions)
+![License](https://img.shields.io/github/license/yksanjo/ai-compliance-system)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ai-compliance-system)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ai-compliance-system)
+
 ## Detailed Description
 
 ai-compliance-system is maintained as an industry-grade software project with production-ready engineering practices.  
